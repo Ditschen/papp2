@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535314762478",
+    "project_id": "ldapp-d6fe5",
+    "storage_bucket": "ldapp-d6fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535314762478:android:176a6403b5e74d92f2c1ff",
+        "android_client_info": {
+          "package_name": "com.example.LDApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535314762478-6sful74fg0ji6sv6qn8pfitlmt1gbs5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOulA7Z8DLFv29ROg-aGvxFisupkMWXRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535314762478-6sful74fg0ji6sv6qn8pfitlmt1gbs5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
