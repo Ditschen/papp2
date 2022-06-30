@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:papp/RegistrationScreen.dart';
+import 'package:papp/allOrders.dart';
 import 'loginScreen.dart';
+import 'RegistrationScreen.dart';
+import 'newPasswordScreen.dart';
+import 'allOrders.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -27,6 +33,9 @@ class MyApp extends StatelessWidget {
       ),
       //home: const MyHomePage(title: 'Bestellungen'),
       home: LoginScreen(),
+      //home: RegistrationScreen(),
+      //home: NewPasswordScreen(),
+      //home: AllOrdersScreen(),
     );
   }
 }
